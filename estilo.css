@@ -1,0 +1,30 @@
+body {
+    background-color: black;
+    font-family: 'Space Mono', monospace;
+}
+
+section {
+    color: snow;
+    
+}
+
+li {
+      text-decoration: none;
+}
+
+h2{
+    color: greenyellow;
+}
+
+li {
+    list-style: none;
+}
+
+p {
+    color: lightgoldenrodyellow;
+}
+
+h1 {
+    color: yellowgreen;
+    text-align: center;
+}
